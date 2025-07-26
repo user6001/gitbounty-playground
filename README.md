@@ -1,2 +1,1 @@
 # gitbounty-playground
-test
